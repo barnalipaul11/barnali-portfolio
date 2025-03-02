@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Diagnose AI",
+    "imageSrc": "projects/diagnose_ai.png",
+    "description": "A medical chatbot leveraging Retrieval-Augmented Generation (RAG) to provide accurate disease predictions and recommendations. Improved response accuracy by 25% and reduced health info access time by 40%.",
+    "skills": ["RAG", "TensorFlow", "FAISS", "LangChain", "LLM model"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/barnalipaul11/Medical_chatbot"
+  },
+  {
+    "title": "IMDB Sentiment Analysis",
+    "imageSrc": "projects/imdb_sentiment.png",
+    "description": "Designed a sentiment analysis model for IMDB reviews, achieving 92% accuracy. Processed 50,000+ reviews using tokenization, stemming, and word embeddings for feature extraction.",
+    "skills": ["Python", "NLP", "TensorFlow", "Scikit-Learn"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/barnalipaul11/IMDB_data_sentiment_analysis"
+  },
+  {
+    "title": "Mushroom-SafeSpotter",
+    "imageSrc": "projects/mushroom_safe.png",
+    "description": "Developed a Streamlit app for mushroom classification, achieving 96% accuracy for public safety. Trained on 8,000+ samples using Scikit-Learn, attaining an F1-score of 0.96.",
+    "skills": ["Python", "Scikit-Learn", "Pandas", "Streamlit"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/barnalipaul11/Mushroom-SafeSpotter"
+  },
+  {
+    "title": "Financial AI",
+    "imageSrc": "projects/financial_ai.png",
+    "description": "A machine learning model for financial analysis and stock prediction. Utilized deep learning techniques to analyze stock trends and predict future values with improved accuracy.",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Financial Data Analysis"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/barnalipaul11/FinancialAi"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Developed a personal portfolio website using React to showcase projects, achievements, and contact details with a modern UI and responsive design.",
+    "skills": ["React", "JavaScript", "CSS", "Framer Motion"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/barnalipaul11/portfolio"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Research Intern",
+    "organisation": "IIC-IEDC LAB, Institute of Engineering and Management",
+    "startDate": "May 2023",
+    "endDate": "January 2024",
+    "experiences": [
+      "Led 10+ experiments ensuring precise data collection, analysis, and reproducibility.",
+      "Designed 5+ IoT projects and implemented 7+ ML algorithms, including reinforcement learning, using TensorFlow and Scikit-learn."
+    ],
+    "imageSrc": "history/research.png"
+  }
+]
