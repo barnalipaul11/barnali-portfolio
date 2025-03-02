@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://barnalipaul11.github.io/barnali-portfolio",
-  "private": true,
+  "homepage": "https://barnalipaul11.github.io/barnali-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
